@@ -1,0 +1,9 @@
+ConnectionString : Data Source=DESIMEL-PC;Initial Catalog=NORTHWND;Integrated Security=True
+
+TypeLibrary
+Dal : Data Acces Layer = Veri ulaşım katmanı
+BS   : Bussiness services
+
+Windows.UI
+ASP.net Web Forms
+ASP.net MVC
